@@ -26,3 +26,5 @@ instructor for advice.
 In order to perform these lab exercises, you will need:
 
   * A modern HTML5 capable web browser (IE10+, Chrome, Firefox, Safari)
+
+
